@@ -1,0 +1,16 @@
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\bin\Debug\18753002_Contact.exe.config
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\bin\Debug\18753002_Contact.exe
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\bin\Debug\18753002_Contact.pdb
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\obj\Debug\_18753002_Contact.Form1.resources
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\obj\Debug\_18753002_Contact.Properties.Resources.resources
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\obj\Debug\18753002_Contact.csproj.GenerateResource.cache
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\obj\Debug\18753002_Contact.exe
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\obj\Debug\18753002_Contact.pdb
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\obj\Debug\_18753002_Contact.FormContact.resources
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\obj\Debug\_18753002_Contact.AboutMe.resources
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\obj\Debug\_18753002_Contact.Bantuan.resources
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\bin\Debug\18753002_Contact.exe.manifest
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\bin\Debug\18753002_Contact.application
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\obj\Debug\18753002_Contact.exe.manifest
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\obj\Debug\18753002_Contact.application
+D:\SMT 3\P.LANJUT\18753002_AdeSetiawan\18753002_Contact\18753002_Contact\obj\Debug\18753002_Contact.csprojResolveAssemblyReference.cache

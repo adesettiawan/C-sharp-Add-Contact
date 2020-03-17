@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="18753002_Contact.exe" version="1.0.0.0" publicKeyToken="364db6b9c4ffd457" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="18753002_Contact" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="18753002_Contact.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="18753002_Contact.exe" size="76760">
+      <assemblyIdentity name="18753002_Contact" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Hm7qcaz8JgotCCFnE2RrVPfFvjtfpMBAr4z8bQlqgb4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="18753002_Contact.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-2J2RJU1O\ACER" issuerKeyHash="c74450471378a89aff7ddd467b04616fb87eabdc" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>rMqzubiKSTqBxc7nrqzOgVtm5NOJJ7dh1oCwEHysHOA=</DigestValue></Reference></SignedInfo><SignatureValue>nXmp79i9pLuly0GenOH20+x6OpO5W6hMPyPTzopqR6I3Cq8BGa6o76POHkbVd0MxI7CR/AO9cCMNigh3sZttIqlwCEQCypsSecfeoyGIk8A/5c1uYEulNtwM+WQwNKUAbjEWWJAfqWOlJGKQAOyzULH3mjtAId2Znt70FQN8UbU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>6M44M4XxJm36+I5XVxLx/blKA1eRLwIIp9PSwyqv5OALrYmZX4sDdJYwmkgDNMX+DoX+duT/yRBMch7diX/foTsfVDzq63E7fl8pygMgdyUNKZbL/qoc5bf/v313ZV8uFUT+8UwmjKSGPOcwDubvYQdZ4Vd9Hll3Ib3J43K7m/0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e01cac7c10b080d661b72789d3e4665b81ceacaee7cec5813a498ab8b9b3caac" Description="" Url=""><as:assemblyIdentity name="18753002_Contact.exe" version="1.0.0.0" publicKeyToken="364db6b9c4ffd457" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-2J2RJU1O\ACER</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>OXq1wiqa+HoyPI/1pTd1Jl8hiBXvsNmwjkxpTyKbiOI=</DigestValue></Reference></SignedInfo><SignatureValue>EbgXCetwne0i8PNZ68d1LODtjJwRCnV/IpqEf/Tvvf5l5gNSnZ/gpdY2Qtn3NwRslYNgkm3oN5oC6iPro3mmOY9zCcwNn+p1qfRVWVob7VcGm8xMXMCVJ1EUoQd7iY4KJKtZ1JILyhLxftisZbYrOl9zB8UJ9fcU31p1zqNwnF8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>6M44M4XxJm36+I5XVxLx/blKA1eRLwIIp9PSwyqv5OALrYmZX4sDdJYwmkgDNMX+DoX+duT/yRBMch7diX/foTsfVDzq63E7fl8pygMgdyUNKZbL/qoc5bf/v313ZV8uFUT+8UwmjKSGPOcwDubvYQdZ4Vd9Hll3Ib3J43K7m/0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQI0dtKGhc365I4/hnH6H9cTANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigATABBAFAAVABPAFAALQAyAEoAMgBSAEoAVQAxAE8AXABBAEMARQBSMB4XDTE5MTAyODA0NDgwNloXDTIwMTAyNzEwNDgwNlowMzExMC8GA1UEAx4oAEwAQQBQAFQATwBQAC0AMgBKADIAUgBKAFUAMQBPAFwAQQBDAEUAUjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA6M44M4XxJm36+I5XVxLx/blKA1eRLwIIp9PSwyqv5OALrYmZX4sDdJYwmkgDNMX+DoX+duT/yRBMch7diX/foTsfVDzq63E7fl8pygMgdyUNKZbL/qoc5bf/v313ZV8uFUT+8UwmjKSGPOcwDubvYQdZ4Vd9Hll3Ib3J43K7m/0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQA60+NWw5g26OBM0cT4pMqaZ0C7qg4TcSTBIdy3wxV2ulyVdgqoTfBvJMqcDSZsej/rBM5fs3cnIu+PjB3fTHdiMyZJxRP/4sroSmDYl2lsYfXQRc6UDtIHfnxrke17dJ1uQXnERVnRpk285evn5JspWWHi2klZ23LMC5LW6r9vjA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
